@@ -3,7 +3,7 @@ body {
   font-family: 'Shadows Into Light', cursive;
 
 }
-.postcard{ 
+.postcard{  
   /*grid for post card*/
    display:grid;
     grid-template-columns: .80fr .30fr ;
