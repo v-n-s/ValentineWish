@@ -9,7 +9,7 @@ function send(){
 
 const usuario = document.querySelector(".usuario").value;
 
-const senha = document.querySelector(".senha(ddmmaa)").value;
+const senha = document.querySelector(".senha").value;
 
 const preencha = document.querySelector("#preencha")
 
