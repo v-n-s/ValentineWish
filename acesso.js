@@ -35,7 +35,7 @@ if(usuario == "karolinne" && senha == "3"){
 
     setTimeout(() => {
 
-    location.href = "https://v-n-s.github.io/ka/home.html";
+    location.href = "https://v-n-s.github.io/ValentineWish/ind.html";
 
     }, 500);
     
@@ -45,7 +45,7 @@ if(usuario == "karolinne" && senha == "3"){
 
     setTimeout(() => {
 
-        location.href = "https://v-n-s.github.io/ka/erro.html";
+        location.href = "https://v-n-s.github.io/ValentineWish/index.html";
     
         }, 500);
 
